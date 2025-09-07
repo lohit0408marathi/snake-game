@@ -1,4 +1,5 @@
 # snake-game
+
 my first game.
 <br>
-game - (snake, water, gun)
+game -- (snake, water, gun)
